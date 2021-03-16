@@ -16,6 +16,7 @@ import it.fabiano.kafka.constants.IKafkaConstants;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public class ProducerCreator {
 
 	public static Producer<Long, String> createProducer() {

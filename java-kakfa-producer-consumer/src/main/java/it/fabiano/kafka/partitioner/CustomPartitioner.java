@@ -11,6 +11,7 @@ import org.apache.kafka.common.Cluster;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public class CustomPartitioner implements Partitioner{
 
 	private static final int PARTITION_COUNT=50;

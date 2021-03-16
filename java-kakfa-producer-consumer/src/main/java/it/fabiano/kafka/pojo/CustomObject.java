@@ -8,6 +8,7 @@ import java.io.Serializable;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public class CustomObject implements Serializable{
 
 	/**

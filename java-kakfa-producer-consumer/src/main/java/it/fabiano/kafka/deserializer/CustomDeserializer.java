@@ -14,6 +14,7 @@ import it.fabiano.kafka.pojo.CustomObject;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public class CustomDeserializer implements Deserializer<CustomObject> {
 	@Override
 	public void configure(Map<String, ?> configs, boolean isKey) {

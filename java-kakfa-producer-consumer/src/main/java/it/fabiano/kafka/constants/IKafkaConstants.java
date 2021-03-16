@@ -6,6 +6,7 @@ package it.fabiano.kafka.constants;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public interface IKafkaConstants {
 	
 	// Kafka config

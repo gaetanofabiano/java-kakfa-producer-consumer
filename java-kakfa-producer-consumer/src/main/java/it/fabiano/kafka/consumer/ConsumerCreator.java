@@ -17,6 +17,7 @@ import it.fabiano.kafka.constants.IKafkaConstants;
  * @version 1.0.0
  * @since   2021-03-15
  */
+
 public class ConsumerCreator {
 
 	public static Consumer<Long, String> createConsumer() {
